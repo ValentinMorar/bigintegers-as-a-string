@@ -9,4 +9,4 @@ NAAS - numbers and a string from here
 
 https://www.amazon.com/NAAS-Numbers-string-programming-Programming-ebook/dp/B07N6MD9GG/ref=sr_1_1?ie=UTF8&qid=1548968232&sr=8-1&keywords=naas+numbers+as+a+string
 
-where you can learn more about PHP arrays and how to use numbers as strings. From the book you can find some ways to sort and compare the array.
+where you can learn more about PHP arrays and how to use numbers as strings. From the book you can find algorithms to sort and compare the arrays.
